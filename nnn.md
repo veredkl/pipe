@@ -19,4 +19,3 @@
 **8. Files used:**
 #### [Made with Scribe](https://scribehow.com/shared/A_proposed_documentation_structure__bDINbF_FQHKUng-rKYbFBw)
 
-
